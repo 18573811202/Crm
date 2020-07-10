@@ -8,7 +8,7 @@ import com.briup.bean.Chance;
 import com.briup.bean.User;
 
 /** 
-* @author 作者 zcg: 
+* @author 作者 lla: 
 * @version 创建时间：Apr 2, 2020 2:13:55 PM 
 * 类说明 
 * 	销售商机管理的dao层

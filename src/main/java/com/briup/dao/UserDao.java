@@ -13,7 +13,7 @@ import com.briup.bean.Role;
 import com.briup.bean.User;
 
 /** 
-* @author 作者 zcg: 
+* @author 作者 lla: 
 * @version 创建时间：Mar 26, 2020 4:53:40 PM 
 * 类说明 :
 * 	User对象和数据库进行保存

@@ -7,7 +7,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import com.briup.bean.Customer;
 
 /** 
-* @author 作者 zcg: 
+* @author 作者 lla: 
 * @version 创建时间：Apr 3, 2020 10:46:14 AM 
 * 类说明 
 * 与客户相关的dao层

@@ -14,7 +14,7 @@ import com.briup.dao.UserDao;
 import com.briup.service.IUserService;
 
 /**
- * @author 作者 zcg:
+ * @author 作者 lla:
  * @version 创建时间：Mar 26, 2020 4:51:03 PM 类说明 : 和User用户相关的Service层逻辑
  */
 @Service

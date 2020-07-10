@@ -9,7 +9,7 @@ import org.springframework.web.servlet.ModelAndView;
 import com.briup.bean.User;
 
 /** 
-* @author 作者 zcg: 
+* @author 作者 lla: 
 * @version 创建时间：Mar 26, 2020 3:30:04 PM 
 * 类说明:	
 * 	用来映射thymeleaf页面的Controller类

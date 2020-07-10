@@ -12,7 +12,7 @@ import com.briup.bean.CustomerConstitute;
 import com.briup.service.ICustomerConstituteService;
 
 /** 
-* @author 作者 zcg: 
+* @author 作者 lla: 
 * @version 创建时间：Apr 3, 2020 10:42:20 AM 
 * 类说明 
 * 客户构成分析的Controller

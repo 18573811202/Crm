@@ -12,7 +12,7 @@ import com.briup.dao.CustomerDao;
 import com.briup.service.ICustomerConstituteService;
 
 /** 
-* @author 作者 zcg: 
+* @author 作者 lla: 
 * @version 创建时间：Apr 3, 2020 10:44:50 AM 
 * 类说明 
 */
